@@ -1,5 +1,5 @@
 ![chow_final_banner](https://user-images.githubusercontent.com/79598596/170844036-e8dadc2d-09be-4a54-b8a0-57bea036af74.png)
-<h4 align="center">Transform your little ESP8266 into a light weight and simple to use Communciation-Over-UDP system...</h4>
+<h4 align="center">Transform your little ESP8266 into a light weight and simple to use Communcation-Over-UDP system...</h4>
 
 ## Features
 - Chat with other ESP8266's over UDP
