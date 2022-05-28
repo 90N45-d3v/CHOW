@@ -27,3 +27,9 @@ esptool.py --chip esp8266 -p <port ex.: /dev/cu.usbserial-14130> -b 115200 write
 ## Working on...
 - Encryption for secure UDP-Packets
 - Message Broadcast for sending one message to multiple microcontrollers
+
+### Additional information
+If you have some improvements, errors or other things to say, just make a fork, pull-request, open an issue or contact me on twitter [@90N45](https://twitter.com/90N45).
+<br>
+<br>
+<i>WANT TO TAKE A LOOK AT THE EASTER CHICKEN?<br>FIND THE ````EGG```` TO SEE WHO CREATED IT...</i>
