@@ -7,6 +7,7 @@
 
 ## Features
 - Chat with other ESP8266's over UDP
+- Use serial as UI for the communication with other ESP8266's
 - Host your own custom WiFi network for communication with other ESP8266's
 - Connect to existing WiFi networks for communication with other ESP8266's
 - Get the current signal strenght (RSSI) from the connection to your network
