@@ -23,3 +23,7 @@ esptool.py --chip esp8266 -p <port ex.: /dev/cu.usbserial-14130> -b 115200 write
 3. Unzip the downloaded SimpleCLI Library and rename the resulting folder to ````SimpleCLI````
 4. Paste the folder in your arduino library folder (usually located somewhere at ````documents/Arduino/libraries````).
 5. Now you can open the downloaded arduino sketch in your Arduino IDE and upload it to your ESP8266
+
+## Working on...
+- Encryption for secure UDP-Packets
+- Message Broadcast for sending one message to multiple microcontrollers
