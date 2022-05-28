@@ -1,4 +1,8 @@
 ![chow_final_banner](https://user-images.githubusercontent.com/79598596/170844036-e8dadc2d-09be-4a54-b8a0-57bea036af74.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+</p>
 <h4 align="center">Transform your little ESP8266 into a light weight and simple to use Communcation-Over-UDP system...</h4>
 
 ## Features
