@@ -1,4 +1,4 @@
-![chow_banner](https://user-images.githubusercontent.com/79598596/170836591-a6a3a01c-79a6-43f7-b329-dfdd774e6bd4.png)
+![chow_final_banner](https://user-images.githubusercontent.com/79598596/170844036-e8dadc2d-09be-4a54-b8a0-57bea036af74.png)
 <h4 align="center">Transform your little ESP8266 into a light weight and simple to use Communciation-Over-UDP system...</h4>
 
 ## Features
