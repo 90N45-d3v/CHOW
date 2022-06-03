@@ -20,7 +20,7 @@ void scanResult(int networksFound)
 }
 
 void help_callback(cmd* commandPointer) {
-  Command cmd(commandPointer);
+  Command cmdHelp(commandPointer);
 
   Serial.print("\nChat with other ESP8266's over UDP in nearby WiFi networks\n");
   Serial.print("\nCOMMANDS:\n");
@@ -146,7 +146,7 @@ void signal_callback(cmd* commandPointer) {
 }
 
 void banner_callback(cmd* commandPointer) {
-  Command cmd(commandPointer);
+  Command cmdBanner(commandPointer);
 
   Serial.print("\n  __  _ _   _   _ _ _ \n / _|| U | / \\ | | | |\n( (_ |   |( o )| V V |\n \\__||_n_| \\_/  \\_n_/ ");
   Serial.print("\n by github.com/90N45-d3v\n");
@@ -154,7 +154,7 @@ void banner_callback(cmd* commandPointer) {
 }
 
 void CLI_callback(cmd* commandPointer) {
-  Command cmd(commandPointer);
+  Command cmdCLI(commandPointer);
 
   Serial.print("\n  *     *\n   \\   /\n  _|___|_\n/     _  \\\n|  _/ }  |\n| `>' \\  |\n \\__\\__`_/\n    |  '-.    .-.\n    '   ';`--' .'\n     '.   `'-./\n      '.`\"-..-;`\n        `;-..'\n        _| _|\n         /` /`\nThanks to Spacehuhn for the SimpleCLI!\n--> github.com/SpacehuhnTech/SimpleCLI\n");
 }
