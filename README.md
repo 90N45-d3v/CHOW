@@ -11,6 +11,7 @@
 - Use serial as UI for the communication with other ESP8266's (Want to know how? Type ````help```` in your serial monitor)
 - Host your own custom WiFi network for communication with other ESP8266's
 - Connect to existing WiFi networks for communication with other ESP8266's
+- Use Port-Forwarding for communication over WAN (Internet)
 - Get the current signal strenght (RSSI) from the connection to your network
 
 ## Installation
